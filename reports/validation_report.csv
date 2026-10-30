@@ -1,0 +1,11 @@
+Validation Check,Status,Count
+Total records checked,INFO,1010
+Accepted records,PASS,1000
+Rejected records,INFO,10
+Duplicate Order IDs found,INFO,0
+Duplicate records found during validation,INFO,0
+Invalid delivery durations,PASS,0
+Invalid platform net revenue,PASS,0
+Missing Order IDs in accepted data,PASS,0
+Missing Order Date and Time,PASS,0
+Missing Delivery Date and Time,PASS,0
