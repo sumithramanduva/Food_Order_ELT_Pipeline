@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Orders Batch-Based ELT Pipeline
 
 ## 1. Project Overview
@@ -156,3 +157,6 @@ The pipeline produces:
 ## 14. Conclusion
 
 This project demonstrates a batch-based ELT workflow using Python, Pandas, and MySQL. It separates raw data storage from analytics data storage and applies transformation and validation before making records available for business analysis.
+=======
+# Food_Order_ELT_Pipeline
+>>>>>>> 567e03ba50ed76995adc7811c5c2ff490ce9b6ba
